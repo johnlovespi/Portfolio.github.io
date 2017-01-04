@@ -20,11 +20,11 @@ body{
 .second-wall {
     background-color: #6D7993;
     background-size: cover;
-    padding-left: 0px;
+    /* padding-left: 0px; */
     height: 100vh;
-    width: 51vw;
+    width: 100vw;
     position: relative;
-    margin: 731px 1px 0px 631px;
+    margin: 701px 0px 0px 0px;
 
 }
 
@@ -35,15 +35,15 @@ body{
     float: right;
     margin-right: 405px;
     color: white;
-    margin-top: 20px;
+    margin-top: 78px;
 
 }
 
 .container p{
-    width: 574px;
+      width: 37vw;
     /* height: 131px; */
     font-size: 27px;
-    margin: 0px 0px -40px 399px;
+    margin: 0px 0px -65px 206px;
     /* padding-top: 346px; */
     color: white;
     margin-top: 13vh;
@@ -148,7 +148,11 @@ header h1{
     box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     /*padding: 50px;
     width: 100%;*/
+
   }
+
+
+
 
 .pic{
   width: 50px;
