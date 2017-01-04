@@ -75,14 +75,15 @@ h2{
 
 li{
    list-style: none;
-    padding-top: 85px;
-   /* border: 1px solid black;*/
+    padding-top: 57px;
+    /* border: 1px solid black; */
     text-align: center;
-   /* border-radius: 73px;*/
-    height: 72px;
+    /* border-radius: 73px; */
+    height: 37px;
     width: 174px;
     padding-left: 25px;
     margin-left: 183px;
+    float: right;
 
 }
 /*#5F9EA0*/
@@ -91,7 +92,7 @@ li{
   background-size: cover;
   padding-left: 25px;
   height: 100vh;
-  width: 51vw;
+  width: 100vw;
   position: relative;
   margin: 0px 0px 0px 650px;
 }
@@ -134,24 +135,24 @@ header h1{
 /*background: url('images/iven.jpg');*/
 
 .mySlides{
-     width: 38vw;
-    height: 58vh;
-    padding: .4px;
+    width: 39vw;
+    height: 57vh;
+    padding: 0.4px;
     border-radius: 0px;
-   margin-left: 80px;
-    padding-top: 0px;
+    margin-left: 183px;
+    /* padding-top: 1px; */
     border-radius: 8px;
     background: #fff none repeat scroll 0 0;
     display: inline;
-   /* float: left;*/
-    text-align: center;
+    /* float: left; */
+    /* text-align: center; */
     box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    /*padding: 50px;
-    width: 100%;*/
+    float: right;
+    margin-top: 57px;
+    padding-left: 13px;
+
 
   }
-
-
 
 
 .pic{
