@@ -53,9 +53,9 @@ body{
 }
 /*#E1332D;*/
 .Rouge_one{
-  background-color:#9099A2;
-  height: 100vh;
-  margin: 0px 0px 0px 650px;
+    background-color: #9099A2;
+    height: 100vh;
+    width: 100vw;
 
 }
 h2{
@@ -72,29 +72,32 @@ h2{
 
 }
 
+ul{
+    float: right;
+    margin-left: 51vw;
+    margin-right: 255px;
+}
 
 li{
-   list-style: none;
-    padding-top: 57px;
+    list-style: none;
+    padding-top: 40px;
     /* border: 1px solid black; */
     text-align: center;
     /* border-radius: 73px; */
-    height: 3px;
-    width: 174px;
-    padding-left: 25px;
-    margin-left: 183px;
-    float: right;
+    height: 44px;
+    width: 122px;
+    /* padding-left: 0px; */
+    margin-left: 12px;
 
 }
 /*#5F9EA0*/
 .third_wall{
-  background-color: #D5D5D5;
-  background-size: cover;
-  padding-left: 25px;
-  height: 100vh;
-  width: 100vw;
-  position: relative;
-  margin: 0px 0px 0px 650px;
+    background-color: #D5D5D5;
+    background-size: cover;
+    /* padding-left: 0vw; */
+    height: 100vh;
+    width: 100vw;
+    position: relative;
 }
 
 header{
@@ -134,12 +137,13 @@ header h1{
 
 /*background: url('images/iven.jpg');*/
 
-.mySlides{
-     width: 36vw;
+
+.mySlides {
+    width: 36vw;
     height: 50vh;
     padding: .4px;
     border-radius: 0px;
-    margin-right: -377px;
+    margin-right: -355px;
     margin-top: 107px;
     border-radius: 8px;
     background: #fff none repeat scroll 0 0;
@@ -148,11 +152,10 @@ header h1{
     /* text-align: center; */
     box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     float: right;
-    margin-top: 57px;
-    padding-left: 13px;
+    margin-top: 128px;
+    padding-left: 1px;
+}
 
-
-  }
 
 
 .pic{
@@ -275,14 +278,16 @@ input .user{
 }
 
 input{
-   width: 37%;
-    text-align: center;
+    width: 343px;
+    /* text-align: center; */
     height: 35px;
     padding: 5px;
-    overflow: visible;
-    margin-left: 173px;
+    /* overflow: visible; */
+    margin-left: 176px;
     margin-top: 49px;
     border-radius: 5px;
+    float: right;
+    margin-right: 136px;
 }
 
 h3{
@@ -293,9 +298,9 @@ h3{
 
 .usertext{
     overflow: visible;
-    margin-left: 171px;
-    margin-top: 60px;
-    height: 180px;
+    margin-left: 110px;
+    margin-top: 63px;
+    height: 147px;
 
 }
 .third_wall p{
@@ -305,15 +310,15 @@ h3{
 
 }
 button{
-    margin-left: 226px;
-    margin-top: 25px;
-    width: 165px;
-    height: 38px;
+    width: 156px;
+    height: 34px;
     border: 5px solid black;
     background-color: initial;
     border-radius: 3px;
+    float: right;
+    margin-top: 257px;
+    margin-right: -374px;
 }
-
 
 
 /*Rouge one style*/
