@@ -9,58 +9,35 @@ body{
 }
 /*#F5FFFA*/
 .container{
-     background-color: #16a085;
-    height: 30%;
-    width: 100vw;
-    position: absolute;
-    /* margin-left: 77px; */
-    float: right;
+  background-color: #96858f;
+  height: 108vh;
+  width: 100vw;
+  position: absolute;
+  /*margin-left: 77px;*/
+  float: right;
 }
 /*#778899*/
 .second-wall {
-    background-color: #34495e;
+    background-color: #6D7993;
     background-size: cover;
-    height: 36vh;
+    /* padding-left: 0px; */
+    height: 100vh;
     width: 100vw;
     position: relative;
-
+    margin: 701px 0px 0px 0px;
 
 }
-
 
 #r-text{
-width: 0px;
-float: right;
-color: white;
- padding: 0% 35% 0% 0%;
-
-}
-
-.second_wall h2{
- padding: 0% 35% 0% 0%;
-}
-
-.Rouge_one{
-       background-color:#16a085 ;
-    height: 36vh;
-    width: 100vw;
-
-}
-
-.Rouge_one h4{
-float: left;
-}
-
-h2{
-    font-size: 47px;
-    font-weight: 300;
+    width: 0px;
+    height: 50px;
+    font-size: 72px;
     float: right;
-    margin-right: 246px;
+    margin-right: 405px;
     color: white;
-    margin-bottom: 4px;
-    font-family: 'Ubuntu', sans-serif;
-}
+    margin-top: 78px;
 
+}
 
 .container p{
       width: 37vw;
@@ -76,39 +53,52 @@ h2{
 }
 /*#E1332D;*/
 .Rouge_one{
-    background-color: #1abc9c;
-    height: 36vh;
+    background-color: #9099A2;
+    height: 100vh;
     width: 100vw;
 
 }
+h2{
+    font-size: 47px;
+    font-weight: 300;
+    float: right;
+    margin-right: 246px;
+    color: white;
+    margin-bottom: 4px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#bages{
 
 
+}
 
 ul{
-float: right;
-    /* margin-left: -1vw; */
-    margin-right: 228px;
+    float: right;
+    margin-left: 51vw;
+    margin-right: 255px;
 }
 
 li{
-      list-style: none;
-    padding-top: 2px;
+    list-style: none;
+    padding-top: 40px;
     /* border: 1px solid black; */
+    text-align: center;
     /* border-radius: 73px; */
-    /* height: 17px; */
-    /* width: 73px; */
+    height: 44px;
+    width: 122px;
     /* padding-left: 0px; */
-    margin-left: 25px;
+    margin-left: 12px;
+
 }
 /*#5F9EA0*/
 .third_wall{
-    background-color:  #bdc3c7;
+    background-color: #D5D5D5;
     background-size: cover;
     /* padding-left: 0vw; */
-    height: 200px;
+    height: 100vh;
+    width: 100vw;
     position: relative;
 }
-
 
 header{
   background-color:;
@@ -131,10 +121,13 @@ header h1{
 
 
 #w-text {
-     width: 0px;
+    font-size: 47px;
+    font-weight: 300;
     float: right;
+    margin-right: 258px;
     color: white;
-    padding: 0% 21% 0% 1%;
+    margin-bottom: 62px;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 #background-img{
@@ -145,22 +138,25 @@ header h1{
 /*background: url('images/iven.jpg');*/
 
 
-
 .mySlides {
-    width: 30vw;
-    height: 34vh;
-    /* padding: .4px; */
+    width: 36vw;
+    height: 50vh;
+    padding: .4px;
     border-radius: 0px;
-    margin-right: -589px;
-    margin-top: 4px;
-    border-radius: 5px;
-    /* background: #fff none repeat scroll 0 0; */
+    margin-right: -355px;
+    margin-top: 107px;
+    border-radius: 8px;
+    background: #fff none repeat scroll 0 0;
     display: inline;
     /* float: left; */
     /* text-align: center; */
-    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(171, 0, 0, 0.19);
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     float: right;
+    margin-top: 128px;
+    padding-left: 1px;
 }
+
+
 
 .pic{
   width: 50px;
@@ -173,7 +169,6 @@ header h1{
 section{
   text-align: center;
 }
-
 
 #footer{
 height: 100px;
@@ -188,7 +183,7 @@ bottom: 0;
 }
 
 #footer{
-  background-color: ;
+  background-color: #F0FFF0;
   text-align:center;
   text-decoration: none;
 }
@@ -208,37 +203,16 @@ bottom: 0;
 
 /*clock CSS*/
 
-p {
-  height: 50px;
-  float: right;
-  margin-right: 0.3em;
-}
-b {
-  float: right;
-  overflow: hidden;
-  position: relative;
-  height: 250px;
+
+img {
+/*  position: absolute;
+  left: -1px;*/
+/*  margin-left: -125px;*/
+  /* Check out http://easings.net/ for more info on this!*/
+ /* -webkit-transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+  transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);*/
 }
 
-span1{
-  display: inline-block;
-  color: #e74c3c;
-  position: relative;
-  white-space: nowrap;
-  top: 0;
-  left: 0;
-  animation: move 15s;
-  animation-iteration-count: infinite;
-animation-delay: 1s;
-}
-
-@keyframes move {
-0%  { top: 0px; }
-20% { top: -50px; }
-40% { top: -100px; }
-60% { top: -150px; }
-80% { top: -400px; }
-}
 
 .sidenav {
     height: 100%;
@@ -367,8 +341,6 @@ button{
 }
 
 /*defualt btn*/
-
-
 .btn {
   color: #fff;
  /* cursor: pointer;*/
