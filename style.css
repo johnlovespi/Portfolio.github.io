@@ -41,14 +41,14 @@ color: white;
 }
 
 .Rouge_one{
-       background-color:#16a085 ;
+    background-color:#16a085 ;
     height: 36vh;
     width: 100vw;
 
 }
 
 .Rouge_one h4{
-float: left;
+  float: left;
 }
 
 h2{
@@ -291,9 +291,14 @@ span h1{
 }
 
 .openbtn{
-  float: right;
-  padding:  25px 35px 5px 5px;
-  font-size:  20px;
+    float: right;
+    margin: 64px -39%
+
+
+}
+
+.third_wall ul{
+  margin-left: 5%;
 
 
 }
@@ -331,7 +336,7 @@ h3{
 }
 .third_wall p{
     margin: -1px -20px 0px 0px;
-    font-size: 36px;
+    font-size: 18px;
     color: black;
 
 }
@@ -408,6 +413,8 @@ button{
   &:hover { text-decoration: none; }
 
 }
+p{
 
+}
 
 /*END OF CLOCK*/
