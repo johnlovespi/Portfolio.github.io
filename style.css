@@ -55,9 +55,9 @@ h2{
     font-size: 47px;
     font-weight: 300;
     float: right;
-    margin-right: 246px;
-    color: white;
-    margin-bottom: 4px;
+    /* margin-right: 246px; */
+    /* color: white; */
+    /* margin-bottom: 4px; */
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -130,11 +130,11 @@ header h1{
 }
 
 
-h2#w-text {
-     width: 0px;
+#w-text {
+   width: 0px;
     float: right;
     color: white;
-    padding: 0% 27% 0% 1%;
+    padding: 0% 47% 0% 1%;
 }
 
 #background-img{
