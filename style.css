@@ -19,7 +19,7 @@ body, html {
   color: #777;
 }
 
-.bgimg-1, .bgimg-2, .bgimg-3 {
+.bgimg-1, .bgimg-2, .bgimg-3,img  {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
@@ -212,6 +212,9 @@ to align it properly */
   }
   .wrapper ul li.google{
       margin-left: 15px;
+  }
+  img{
+    width: 25%;
   }
 }
 
