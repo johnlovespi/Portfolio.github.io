@@ -200,7 +200,15 @@ to align it properly */
   .wrapper ul li.google{
       margin-left: 10px;
   }
+  article{
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
+  }
 }
 
 
