@@ -200,6 +200,10 @@ to align it properly */
   .wrapper ul li.google{
       margin-left: 60px;
   }
+   img{
+    width: 15vw;
+    height: 15vh;
+  }
 }
 
 
@@ -213,9 +217,7 @@ to align it properly */
   .wrapper ul li.google{
       margin-left: 15px;
   }
-  img{
-    width: 25%;
-  }
+
 }
 
 /* Turn off parallax scrolling for tablets and phones */
