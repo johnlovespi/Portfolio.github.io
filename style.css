@@ -198,12 +198,9 @@ to align it properly */
       margin-top: 10px;
   }
   .wrapper ul li.google{
-      margin-left: 60px;
+      margin-left: 10px;
   }
-   img{
-    width: 15vw;
-    height: 15vh;
-  }
+
 }
 
 
