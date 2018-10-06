@@ -4,7 +4,7 @@
 */
 }
 body{
-      background-color: #bdc3c7;
+  background-color: #bdc3c7;
 
 }
 
@@ -29,8 +29,8 @@ body, html {
 }
 
 .bgimg-1 {
-  background-image: url("http://www.twitrcovers.com/wp-content/uploads/2015/07/landmark-bridge-cliff-california-l.jpg");
-  min-height: 100%;
+  background-image: url("./images/scott-walsh-.jpg");
+  height: 100%;
 }
 
 
